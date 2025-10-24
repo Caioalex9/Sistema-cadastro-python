@@ -1,0 +1,4 @@
+1- Consegui salvar os dados e consultar 
+2- tratamento de exeção para os nomes, idade e email.
+3- Adicionar mais informações, ID,Sobrenome, data de nascimento,cpf
+4- Criar um menu interativo onde vc pode visualisar, deletar.
