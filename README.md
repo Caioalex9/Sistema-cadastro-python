@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-green)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-## 📖 Sobre o Projeto
+## 📖 Sobre o Projet
 
 Sistema de cadastro de pessoas desenvolvido em Python utilizando a biblioteca Pandas para manipulação e persistência de dados. O projeto faz parte do meu aprendizado no **Curso em Vídeo - Mundo 3**, onde estou aplicando conceitos de funções, validação de dados e manipulação de arquivos.
 
