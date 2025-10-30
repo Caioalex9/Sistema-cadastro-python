@@ -10,12 +10,17 @@ Sistema de cadastro de pessoas desenvolvido em Python utilizando a biblioteca Pa
 
 ## ✨ Funcionalidades
 
-- ✅ **Cadastro de pessoas** com validação de dados
-- ✅ **Geração automática de ID** para cada cadastro
-- ✅ **Validação de entrada** para nome, idade e email
-- ✅ **Persistência de dados** em arquivo CSV
-- ✅ **Menu interativo** para navegação
-- ✅ **Listagem de cadastros** salvos
+- ✅ **Cadastro de pessoas** com validação completa
+- ✅ **Geração automática de ID** incremental
+- ✅ **Cálculo automático de idade** a partir da data de nascimento
+- ✅ **Validação de CPF duplicado** no sistema
+- ✅ **Consulta inteligente** por ID, nome ou sobrenome
+- ✅ **Edição de cadastros** com opção de manter valores atuais
+- ✅ **Remoção com confirmação** para evitar exclusões acidentais
+- ✅ **Interface colorida** no terminal
+- ✅ **Limpeza de tela** entre operações
+- ✅ **Menu dinâmico** e interativo
+- ✅ **Persistência em CSV** com pandas
 
 ## 🛠️ Tecnologias Utilizadas
 

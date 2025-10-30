@@ -1,7 +1,6 @@
-ID,Nome,Idade,Email
-1,Caio,28,caio@gmail.com
-2,Fabiano,24,fabiano@gmail.com
-3,Davi,22,davi@gmail.com
-4,Luiz,33,luiz@gmail.com
-5,Arthur,16,arthur@gmail.com
-6,Joao,23,joao@gmail.com
+ID,Nome,Sobrenome,Data_Nascimento,CPF,Idade,Email
+1,Caio,Rato,27/04/1997,123.456.798-10,28,caio@gmail.com
+2,Pit,Sapo,22/11/2020,123.456.789-12,33,pit@gmail.com
+3,Luiz,Rato,11/01/1965,123.456.789-01,44,luiz@gmail.com
+5,Shuan,Sandro,21/12/1956,123.456.789-55,35,shuan@gmail.com
+6,Pedro,Silva,31/10/2002,123.456.789-88,22,pedro@gmail.com
