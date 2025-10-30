@@ -178,7 +178,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 Estudante de programação aplicando conhecimentos do Curso em Vídeo - Python (Mundo 3)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue)](https://www.linkedin.com/in/caioalex9)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-black)](https://github.com/Caioalex9)
 
 ---
